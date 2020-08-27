@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.image{
+    margin-top: 10px;
+    display: block;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 50%;
+
+}
